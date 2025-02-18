@@ -1,0 +1,25 @@
+[
+    {
+      "username": "pwfinal@test.com",
+      "password": "Test@#6969",
+      "productname": "HTC",
+      "firstname": "tester",
+      "lastname": "lastnamer",
+      "addone": "ad1",
+      "city": "mycity",
+      "pincode": "12345",
+      "successmessage": "Your order has been placed!"
+    },
+    {
+      "username": "pwfinal2@test.com",
+      "password": "Test@#6969",
+      "productname": "Samsung",
+      "firstname": "user2",
+      "lastname": "lastuser",
+      "addone": "ad2",
+      "city": "anothercity",
+      "pincode": "54321",
+      "successmessage": "Order successful!"
+    }
+  ]
+  
